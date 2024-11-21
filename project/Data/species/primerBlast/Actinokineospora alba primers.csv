@@ -1,0 +1,8 @@
+﻿Primer pair #,Forward primer Sequence (5'->3'),Forward primer Template strand,Forward primer Length,Forward primer Start,Forward primer Stop,Forward primer Tm,Forward primer GC%,Forward primer Self complementarity,Forward primer Self 3' complementarity,Reverse primer Sequence (5'->3'),Reverse primer Template strand,Reverse primer Length,Reverse primer Start,Reverse primer Stop,Reverse primer Tm,Reverse primer GC%,Reverse primer Self complementarity,Reverse primer Self 3' complementarity,Product length
+1,CCGGAAACCTGCAGAGATGT,Plus,20,936,955,60.04,55,6,2,AGCCCTAGACATAAGGGGCA,Minus,20,1158,1139,60.03,55,4,0,223
+2,CCACACTGGGACTGAGACAC,Plus,20,264,283,59.97,60,3,3,CATCTCTGCAGGTTTCCGGT,Minus,20,954,935,60.04,55,6,2,691
+3,AACCTCTTTCAGCAGGGACG,Plus,20,384,403,59.96,55,3,2,CAGGTTTCCGGTCCATGTCA,Minus,20,946,927,59.96,55,4,3,563
+4,ACCGGAAACCTGCAGAGATG,Plus,20,935,954,60.04,55,6,2,CACCTTCCTCCGAGTTGACC,Minus,20,1118,1099,60.04,60,5,1,184
+5,TGACATGGACCGGAAACCTG,Plus,20,927,946,59.96,55,4,1,CCACCTTCCTCCGAGTTGAC,Minus,20,1119,1100,60.04,60,5,2,193
+,,,,,,,,,,,,,,,,,,,
+Run time: 51.90 s,,,,,,,,,,,,,,,,,,,

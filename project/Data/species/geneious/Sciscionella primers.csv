@@ -1,0 +1,13 @@
+Name,Minimum,Maximum,Direction,Sequence (with extension),Length (with extension),Paired Primer,# Local Off-target Sites,%GC,Hairpin Tm,Self Dimer Tm,Tm
+738 F,738,757,forward,ATACCCTGGTAGTCCACGCT,20,"1,181 R",0,55,39,2.1,60
+287 F,287,306,forward,ACTGAGATACGGCCCAGACT,20,"1,129 R",0,55,None,10.9,60
+96 F,96,115,forward,CTGCCCTGCACTTTGGGATA,20,306 R,0,55,46.2,12.8,60
+306 R,287,306,reverse,AGTCTGGGCCGTATCTCAGT,20,96 F,0,55,None,None,60
+"1,181 R",1162,1181,reverse,TAGCATGTGTGAAGCCCTGG,20,738 F,0,55,None,None,60
+"1,129 R",1110,1129,reverse,CACCTTCCTCCGAGTTGACC,20,287 F,0,60,None,None,60
+"1,162 F",1162,1181,forward,CCAGGGCTTCACACATGCTA,20,"1,249 R",0,55,None,None,60
+"1,249 R",1230,1249,reverse,CGAACTGAGACCGGCTTTCT,20,"1,162 F",0,55,None,None,60
+117 F,117,136,forward,GCCTTGGAAACGGGGTCTAA,20,"1,130 R",0,55,None,None,60
+"1,130 R",1111,1130,reverse,CCACCTTCCTCCGAGTTGAC,20,117 F,0,60,None,None,60
+,,,,,,,,,,,
+Run time: 0.99 s,,,,,,,,,,,
